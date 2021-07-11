@@ -1,2 +1,2 @@
 响应 header
-![响应header](./result.jpg)
+![响应header](./result.png)
